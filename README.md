@@ -1,2 +1,1 @@
-"# My Project" 
-"Antoine supremacy"
+"# My Project"
